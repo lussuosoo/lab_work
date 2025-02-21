@@ -1,0 +1,4 @@
+C:/Users/missm/GIT/lab_work/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/missm/GIT/lab_work/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/missm/GIT/lab_work/build/src/CMakeFiles/test.dir
+C:/Users/missm/GIT/lab_work/build/src/utils/CMakeFiles/utils.dir

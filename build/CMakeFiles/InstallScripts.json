@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/missm/GIT/lab_work/build/cmake_install.cmake",
+		"C:/Users/missm/GIT/lab_work/build/src/cmake_install.cmake",
+		"C:/Users/missm/GIT/lab_work/build/src/utils/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

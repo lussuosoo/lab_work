@@ -1,0 +1,10 @@
+^C:\USERS\MISSM\GIT\LAB_WORK\BUILD\CMAKEFILES\E486DC5F0F8AD5FB71039F5DD2F4D5C4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/missm/GIT/lab_work -BC:/Users/missm/GIT/lab_work/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/missm/GIT/lab_work/build/lab_work.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
